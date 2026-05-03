@@ -1,0 +1,22 @@
+# Environment and secrets
+.env
+.env.*
+*.pem
+*.key
+
+# PHP and vendor
+vendor/
+
+# Node artifacts
+node_modules/
+
+# Logs and temp
+*.log
+tmp/
+cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
