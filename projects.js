@@ -6,8 +6,8 @@ window.PROJECTS = [
         summary: "Front desk, consultations, lab workflows, pharmacy, and billing under one operational platform.",
         stack: ["PHP", "JavaScript", "MySQL"],
         modules: ["Admissions", "Vitals", "Pharmacy", "Lab Results"],
-        liveUrl: "../Clinic%20System%20v2/index.php",
-        codeUrl: "https://github.com/yourusername/clinic-system-showcase"
+        liveUrl: "novara.co.zw/demo/Clinic%20System%20v2/index.php",
+        codeUrl: ""
     },
     {
         title: "Restaurant App",
@@ -16,8 +16,8 @@ window.PROJECTS = [
         summary: "POS, kitchen coordination, fiscal routines, and stock management for food operations.",
         stack: ["PHP", "JavaScript", "MySQL"],
         modules: ["POS", "Kitchen", "Stock", "Fiscal Reports"],
-        liveUrl: "../restuarant%20app/index.php",
-        codeUrl: "https://github.com/yourusername/restaurant-app-showcase"
+        liveUrl: "novara.co.zw/demo/restuarant%20app/index.php",
+        codeUrl: ""
     },
     {
         title: "Shop App",
@@ -26,8 +26,8 @@ window.PROJECTS = [
         summary: "Sales, accounting, stock, and attendance modules tailored for daily retail workflows.",
         stack: ["PHP", "JavaScript", "MySQL"],
         modules: ["Sales", "Stock", "Accounting", "Attendance"],
-        liveUrl: "../shop%20app/index.php",
-        codeUrl: "https://github.com/yourusername/shop-app-showcase"
+        liveUrl: "novara.co.zw/demo/shop%20app/index.php",
+        codeUrl: ""
     },
     {
         title: "Novara Demo Portal",
@@ -36,8 +36,8 @@ window.PROJECTS = [
         summary: "Lead capture and guided demo provisioning flow for controlled product trials.",
         stack: ["PHP", "JavaScript", "MySQL"],
         modules: ["Lead Capture", "Validation", "Admin Review", "Provisioning"],
-        liveUrl: "../index.php",
-        codeUrl: "https://github.com/yourusername/demo-portal-showcase"
+        liveUrl: "novara.co.zw/demo/index.php",
+        codeUrl: ""
     },
     {
         title: "Other Client Website",
@@ -46,7 +46,7 @@ window.PROJECTS = [
         summary: "Use this card to represent another website you developed, with key business outcome.",
         stack: ["PHP", "JavaScript"],
         modules: ["Replace", "With", "Real", "Modules"],
-        liveUrl: "https://yourdomain.com",
+        liveUrl: "https://lifelinefirstaid.co.zw/",
         codeUrl: ""
     }
 ];
